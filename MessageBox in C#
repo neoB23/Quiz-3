@@ -22,30 +22,30 @@ namespace hmmmm
             MessageBox.Show("Virus Detected click Yes if you still want to proceed and click Cancel to disable it", "Warning", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
 
             {
-                MessageBox.Show("Kikiki just kidding babyyy its meeee", "<3");
+                MessageBox.Show("loewm ipaum", "<3");
             }
 
             {
-                string message = "Is my babyy mkayy lang po?";
-                string title = "Just checking up on uuu";
+                string message = "lorem ipsum?";
+                string title = "lorem ipsum";
                 MessageBoxButtons buttons = MessageBoxButtons.YesNo;
                 MessageBoxIcon icon = MessageBoxIcon.Question;
                 DialogResult result = MessageBox.Show(message, title, buttons, icon);
                 if (result == DialogResult.Yes)
                 {
-                    MessageBox.Show("Im glad ur mkayy lang po babyy");
+                    MessageBox.Show("lorem ipsum");
                 }
                 else
                 {
-                    MessageBox.Show("Awwee poor my babyyy bf is here lang babyy mkayy u can share your problems to bf");
-                    MessageBox.Show("Im always here for you lang po babyy mkayyyyy");
-                    MessageBox.Show("I wanna say something po babyyy");
-                    MessageBox.Show("and itsssss");
+                    MessageBox.Show("lorem ipsum");
+                    MessageBox.Show("lorem ipsum");
+                    MessageBox.Show("lorem ipsum");
+                    MessageBox.Show("lorem ipsum");
                 }
             }
             {
-                MessageBox.Show("iloveuuuuuuuu sm babyy mkayyyyyy", "<3");
-                MessageBox.Show("Happyyy 7th monthsaryy babyyyyyyyy!!");
+                MessageBox.Show("lorem ipsum", "lorem ipsum");
+                MessageBox.Show("lorem ipsum!");
             }
         }
     }
